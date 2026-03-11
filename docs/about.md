@@ -2,7 +2,7 @@
 
 ## Who I Am
 
-I am a **Maker Mentor** and **STEM Mentor** at **iLab**, passionate about hands-on learning, prototyping, and helping makers bring their ideas to life.
+I am a **Maker Mentor** at **[iLab](https://ilabindia.org)**, passionate about hands-on learning, prototyping, and helping makers bring their ideas to life.
 
 ## What I Do at iLab
 
