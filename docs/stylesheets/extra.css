@@ -52,18 +52,3 @@
   margin-top: 1rem;
 }
 
-/* Fix author avatar */
-.md-author img,
-.md-post__authors img,
-img.md-author__image {
-  width: 40px !important;
-  height: 40px !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  background: none !important;
-  border: 2px solid #800080 !important;
-}
-
-.md-author {
-  background: none !important;
-}
