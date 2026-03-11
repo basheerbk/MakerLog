@@ -4,3 +4,12 @@
   --md-primary-fg-color--dark:  #600060;
   --md-accent-fg-color:         #800080;
 }
+
+/* Limit image size in blog posts */
+.md-content img {
+  max-width: 75%;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
