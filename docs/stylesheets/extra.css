@@ -5,11 +5,49 @@
   --md-accent-fg-color:         #800080;
 }
 
-/* Limit image size in blog posts */
+/* Section headings — purple left border */
+.md-content h2 {
+  border-left: 4px solid #800080;
+  padding-left: 0.75rem;
+  margin-top: 2rem;
+}
+
+/* Wrap each section in a subtle card */
+.md-content h2 + p,
+.md-content h2 + ul,
+.md-content h2 + ol {
+  background: rgba(128, 0, 128, 0.05);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+}
+
+/* Bullet list spacing */
+.md-content ul li {
+  margin-bottom: 0.3rem;
+}
+
+/* Divider between sections */
+.md-content h2::before {
+  content: '';
+  display: block;
+  border-top: 1px solid rgba(128, 0, 128, 0.15);
+  margin-bottom: 1rem;
+}
+
+/* Images — 75% width, centered, rounded with shadow */
 .md-content img {
   max-width: 75%;
   display: block;
   margin: 1rem auto;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* Photo section heading */
+.md-content h3 {
+  font-size: 0.9rem;
+  color: #800080;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 1rem;
 }
