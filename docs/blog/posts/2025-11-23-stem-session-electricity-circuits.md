@@ -38,6 +38,12 @@ Introductory STEM session for 15 students at iLab. Covered the basics of electri
 
 ## Photos
 
+### Session Overview
+![Mentor demonstrating circuit components to students](../../images/10.png)
+
+### Hands-on Circuit Building
+![Student working on LED circuit on breadboard](../../images/11.png)
+
 ### Electricity Introduction
 ![Basheer introducing electricity to students](../../images/1.png)
 
