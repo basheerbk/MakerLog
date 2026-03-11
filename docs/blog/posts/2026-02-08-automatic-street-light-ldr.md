@@ -37,6 +37,11 @@ tags:
 - Observed how light intensity changes triggered the LED
 - Troubleshot and refined circuit connections
 
+## Photos
+
+### Session — LDR Circuit Building
+![Mentor demonstrating LDR circuit to students at Skill Hub](../../images/ldr.png)
+
 ## Highlights
 
 - Students explained independently how the LDR controls the LED through the transistor
