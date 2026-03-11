@@ -1,8 +1,8 @@
 # iLab Maker Journal
 
-A personal activity log for my work as a **Maker Mentor** and **STEM Mentor** at **iLab**.
+A personal activity log for my work as a **Maker Mentor** at **iLab**.
 
-This site documents mentoring sessions, maker projects guided, and reflections over time.
+This site documents mentoring sessions, maker projects guided, and systems implemented over time.
 
 ---
 
@@ -10,7 +10,7 @@ This site documents mentoring sessions, maker projects guided, and reflections o
 
 - **Session journals** — logged after each mentoring session
 - **Project notes** — summaries of maker projects I've guided
-- **Highlights & challenges** — honest reflections on the mentoring process
+
 
 ---
 
