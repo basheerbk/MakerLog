@@ -1,10 +1,10 @@
 ---
-title: 'STEM Session #07: Automatic Hand Dispenser'
+title: 'STEM Session #07: Automatic Water Dispenser'
 date: 2026-02-08
 authors: [mentor]
 slug: stem-session-07-automatic-hand-dispenser
 description: >
-  Students built an automatic hand dispenser using an IR sensor and transistor at Skill Hub.
+  Students built an automatic water dispenser using an IR sensor and transistor at Skill Hub.
 tags:
   - STEM
   - sensors
@@ -15,7 +15,7 @@ tags:
 
 ## Overview
 
-13 students at Skill Hub assembled a working automatic hand dispenser using an IR sensor, transistor, and DC pump — connecting sensor-based automation to a real hygiene application.
+13 students at Skill Hub assembled a working automatic water dispenser using an IR sensor, transistor, and DC pump — connecting sensor-based automation to a real hygiene application.
 
 <!-- more -->
 
@@ -36,6 +36,11 @@ tags:
 - Tested the dispenser by detecting hand movement
 - Troubleshot and refined circuit connections
 - Observed how the sensor triggered the pump automatically
+
+## Photos
+
+### Student Building the Water Dispenser Circuit
+![Student assembling IR sensor and pump circuit for automatic water dispenser](../../images/water.png)
 
 ## Highlights
 
